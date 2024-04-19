@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which anime features a character named Monkey D. Luffy?",
+      "options": ["Naruto", "Dragon Ball", "One Piece", "Bleach"],
+      "correct_answer": "One Piece"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Attack on Titan'?",
+      "options": ["Eren Jaeger", "Levi Ackerman", "Armin Arlert", "Mikasa Ackerman"],
+      "correct_answer": "Eren Jaeger"
+    },
+    {
+      "question": "In 'Naruto', what is Naruto Uzumaki's signature jutsu?",
+      "options": ["Chidori", "Rasengan", "Kamehameha", "Bankai"],
+      "correct_answer": "Rasengan"
+    },
+    {
+      "question": "Which anime is about a group of students with superhuman abilities battling for survival?",
+      "options": ["Tokyo Ghoul", "My Hero Academia", "Sword Art Online", "Death Note"],
+      "correct_answer": "My Hero Academia"
+    },
+    {
+      "question": "What is the name of the butler in 'Black Butler'?",
+      "options": ["Claude Faustus", "Ciel Phantomhive", "Sebastian Michaelis", "William T. Spears"],
+      "correct_answer": "Sebastian Michaelis"
+    },
+    {
+      "question": "Who is the Fullmetal Alchemist in 'Fullmetal Alchemist'?",
+      "options": ["Edward Elric", "Alphonse Elric", "Roy Mustang", "Winry Rockbell"],
+      "correct_answer": "Edward Elric"
+    },
+    {
+      "question": "In 'Death Note', what is the name of the detective known as 'L'?",
+      "options": ["Light Yagami", "Ryuk", "Near", "Lawliet"],
+      "correct_answer": "Lawliet"
+    },
+    {
+      "question": "Which anime features the character known as 'Sailor Moon'?",
+      "options": ["Fairy Tail", "Sailor Moon", "Inuyasha", "Blue Exorcist"],
+      "correct_answer": "Sailor Moon"
+    },
+    {
+      "question": "What is the name of the anime about a notebook that can kill anyone whose name is written in it?",
+      "options": ["Attack on Titan", "Death Note", "Code Geass", "Cowboy Bebop"],
+      "correct_answer": "Death Note"
+    },
+    {
+      "question": "Which anime is based on a virtual reality MMORPG where players are trapped in the game?",
+      "options": ["Sword Art Online", "Fairy Tail", "No Game No Life", "Log Horizon"],
+      "correct_answer": "Sword Art Online"
+    }
+  ]
+}
